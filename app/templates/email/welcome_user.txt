@@ -1,0 +1,2 @@
+Hello {{user.username}}
+Do you love Blogging!! your in the right place welcome!
